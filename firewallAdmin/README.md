@@ -13,6 +13,6 @@ Add delay to packets on INTERFACE: [Source](https://superuser.com/questions/1737
 ### Windows
 
 ##### Windows Firewall with Advanced Security
-[Server 2008, Windows 7](https://technet.microsoft.com/en-us/library/cc754274(v=ws.11).aspx)
-[Server 2012, Windows 8](https://technet.microsoft.com/en-us/library/hh831365(v=ws.11).aspx)
-[Server 2016, Windows 10](https://technet.microsoft.com/en-us/itpro/windows/keep-secure/windows-firewall-with-advanced-security)
+* [Server 2008, Windows 7](https://technet.microsoft.com/en-us/library/cc754274(v=ws.11).aspx)
+* [Server 2012, Windows 8](https://technet.microsoft.com/en-us/library/hh831365(v=ws.11).aspx)
+* [Server 2016, Windows 10](https://technet.microsoft.com/en-us/itpro/windows/keep-secure/windows-firewall-with-advanced-security)

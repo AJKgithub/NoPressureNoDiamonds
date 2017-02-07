@@ -9,10 +9,10 @@
 ##### Active Directory
 [Ports required for access through firewalls](https://technet.microsoft.com/en-us/library/dd772723(v=ws.10).aspx)
 
-##### Windows Firewall
-[Server 2008, Windows 7](https://technet.microsoft.com/en-us/library/cc754274(v=ws.11).aspx)
-[Server 2012, Windows 8](https://technet.microsoft.com/en-us/library/hh831365(v=ws.11).aspx)
-[Server 2016, Windows 10](https://technet.microsoft.com/en-us/itpro/windows/keep-secure/windows-firewall-with-advanced-security)
+##### Windows Firewall with Advanced Security
+* [Server 2008, Windows 7](https://technet.microsoft.com/en-us/library/cc754274(v=ws.11).aspx)
+* [Server 2012, Windows 8](https://technet.microsoft.com/en-us/library/hh831365(v=ws.11).aspx)
+* [Server 2016, Windows 10](https://technet.microsoft.com/en-us/itpro/windows/keep-secure/windows-firewall-with-advanced-security)
 
 ### Historical Documents
 [2016 SWCCDC Qualifier Packet](https://drive.google.com/file/d/0BzT2PVDqDSYdYXNnQnY5bWdzaGc/view)
