@@ -1,4 +1,4 @@
-![Baylor Bears](../img/bears.png)
+![Baylor Bears](img/bears.png)
 # CCDC 2017: [No Pressure, No Diamonds](https://github.com/bkjk100/NoPressureNoDiamonds)
 
 ## Linux
