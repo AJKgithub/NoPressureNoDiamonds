@@ -2,7 +2,7 @@
 
 ### PaloAlto
 [Reference (6.0)](PAN-OS-6.0-CLI-ref.pdf)  
-[Admin Guide (7.0)](pan-os.pdf)
+[Admin Guide (7.0)](pan-os.pdf)  
 [CLI](https://www.paloaltonetworks.com/documentation/61/pan-os/pan-os/device-management/use-the-command-line-interface-cli)  
 [Running on AWS](https://www.paloaltonetworks.com/products/secure-the-network/virtualized-next-generation-firewall/vm-series-for-aws)  
 [CCDC 2017 Traning Slides](CCDC2017Training.pptx)  
