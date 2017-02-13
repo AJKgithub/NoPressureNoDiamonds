@@ -14,4 +14,5 @@
 [Server 2016, Windows 10](https://technet.microsoft.com/en-us/itpro/windows/keep-secure/windows-firewall-with-advanced-security)
 
 ### Historical Documents
+[2017 SWCCDC Qualifier Packet](https://southwestccdc.com/download/remote-qualifier-team-packet.pdf)
 [2016 SWCCDC Qualifier Packet](https://drive.google.com/file/d/0BzT2PVDqDSYdYXNnQnY5bWdzaGc/view)
